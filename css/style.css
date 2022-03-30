@@ -22,3 +22,11 @@ body {
     position: relative;
   }
 }
+
+.lista-plano li + li {
+  border-top: 1px solid rgb(209, 208, 208);
+}
+
+.lista-plano li {
+  padding: 1rem;
+}
